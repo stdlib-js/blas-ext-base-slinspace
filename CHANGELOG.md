@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`55a95d9`](https://github.com/stdlib-js/stdlib/commit/55a95d9901d416bf70348029ae16209965f5bcd5) - **test:** update descriptions _(by Athan Reines)_
 -   [`7e1263e`](https://github.com/stdlib-js/stdlib/commit/7e1263e4afaadb487cb9e17036f77f4c00caa4de) - **docs:** add notes _(by Athan Reines)_
 -   [`674864d`](https://github.com/stdlib-js/stdlib/commit/674864dd866f52f3d697a8edb29a3a94e1174ef9) - **docs:** add notes _(by Athan Reines)_
 -   [`b3817aa`](https://github.com/stdlib-js/stdlib/commit/b3817aa9b503e211474c485bc381251d47aa308b) - **docs:** fix function signature and remove extrs spaces _(by Philipp Burckhardt)_
